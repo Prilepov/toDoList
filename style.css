@@ -54,6 +54,7 @@ button {
 }
 .through {
   text-decoration: line-through;
+  background-color: #808080; 
 }
 #clear {
   clear: both;
